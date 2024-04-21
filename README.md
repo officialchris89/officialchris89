@@ -11,7 +11,7 @@ Python (Django, Flask) | Java (Spring boot) | JavaScript (React, Node.js) | DevO
 
 ### 🌱 Education
 
-Bsc Computing | M.Sc Software Engineering
+B.Sc Computing | M.Sc Software Engineering
 
 ### Current Project
 
