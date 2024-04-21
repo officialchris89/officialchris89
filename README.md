@@ -1,4 +1,5 @@
 # Chris Emetoh
+
 ---
 
 ## Software Engineer | Cloud Architect
@@ -13,6 +14,6 @@ Python (Django, Flask) | Java (Spring boot) | JavaScript (React, Node.js) | DevO
 
 B.Sc Computing | M.Sc Software Engineering
 
-### Current Project
+### 🌱 Current Project
 
 GreenAware Climate Change Monitoring Website and API (using Python [Django & Flask]).
