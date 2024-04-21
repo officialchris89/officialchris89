@@ -1,5 +1,4 @@
 # Chris Emetoh
-***
 
 ## Software Engineer | Cloud Architect
 
